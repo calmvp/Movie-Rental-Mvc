@@ -74,6 +74,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Controllers\HelloWorldController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\Web.config" />
